@@ -1,0 +1,8 @@
+main: co.trendypanda.toggleinv.Main
+name: ToggleInventory
+version: 1.0
+description: A plugin by TrendyPanda
+depend: [LuckPerms]
+commands:
+  keepinv:
+  keepxp:

@@ -1,0 +1,15 @@
+KeepInvPermission: 'toggle.keepinv' #Permission needed to use /keepinv
+KeepXPPermission: 'toggle.keepxp' #Permission needed to use /keepxp
+KeepInvTogglePermission: 'essentials.keepinv' #Permission that is toggled with /keepinv
+KeepXPTogglePermission: 'essentials.keepxp' #Permission that is toggled with /keepxp
+KeepInvEnableMessage: '&aYou have toggled keep inventory' 
+KeepInvDisableMessage: '&cYou have toggled off keep inventory'
+KeepXPEnableMessage: '&aYou have toggled keep xp'
+KeepXPDisableMessage: '&cYou have toggled off keep xp'
+KeepInvAlreadyOn: '&aKeepinv is already on!'
+KeepInvAlreadyOff: '&cKeepinv is already off!'
+KeepXPAlreadyOn: '&aKeepxp is already on!'
+KeepXPAlreadyOff: '&cKeepxp is already off!'
+
+InvalidArgs: '&cInvalid Arguments'
+NoPermissionMessage: '&cYou do not have permission to use this command.'
