@@ -10,4 +10,4 @@ Toggle inventory is a simple, efficient and easy to use command based plugin whi
 
 
 # Soft dependancies
-[Essentials] is recogmended for the default perissions however the permissions are customisable in config.yml
+[Essentials] is recommended for the default perissions however the permissions are customisable in config.yml
